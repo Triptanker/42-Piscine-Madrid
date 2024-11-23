@@ -1,0 +1,6 @@
+int main(void)
+{
+	ft_putchar (char h);
+
+	return 0;
+}

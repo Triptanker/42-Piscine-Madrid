@@ -1,0 +1,6 @@
+int main(void)
+{
+    ft_print_reverse_alphabet(0);
+    
+    return 0;
+}
